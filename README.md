@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="150" src="https://res.cloudinary.com/dxysbgd4z/image/upload/v1743185090/astronautaa_meawkh.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
